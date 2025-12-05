@@ -14,6 +14,14 @@ Software engineer and AI enthusiast
 - **Tools:** Git, Linux, GPU Computing
 - **APIs:** OpenAI, Gmail API, QuickBooks API
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielbusnz-lgtm&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielbusnz-lgtm&layout=compact&theme=dark&card_width=500)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielbusnz-lgtm&theme=dark)
+
 ## 📫 How to reach me
 
 Feel free to check out my projects and connect!
