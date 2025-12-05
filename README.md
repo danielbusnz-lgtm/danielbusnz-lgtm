@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielbusnz-lgtm&theme=github_dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielbusnz-lgtm&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielbusnz-lgtm&theme=github_dark)
 
