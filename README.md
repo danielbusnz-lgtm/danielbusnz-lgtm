@@ -10,8 +10,8 @@
 ## Projects
 
 - **[AI Car Racing](https://github.com/danielbusnz-lgtm/car-ai)** - Reinforcement learning agent that learns to drive using Deep Q-Learning (DQN)
-- **[AI Vision Trading](https://github.com/danielbusnz-lgtm/timeseries-vision-trading)** -
-- **AI Invoice Processor** - Automated invoice processing from Gmail to QuickBooks using OpenAI
+- **[AI Vision Trading](https://github.com/danielbusnz-lgtm/timeseries-vision-trading)** - Time series trading analysis using computer vision and deep learning
+- **[AI Invoice Processor](https://github.com/danielbusnz-lgtm/ai-invoice)** - Automated invoice processing from Gmail to QuickBooks using OpenAI
 
 ## Skills
 - **Languages:** Python, C++
