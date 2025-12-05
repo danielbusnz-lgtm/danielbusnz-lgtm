@@ -1,4 +1,4 @@
-Unbothered Software engineer
+              Unbothered Software engineer
 
 ## Projects
 
@@ -15,9 +15,10 @@ Unbothered Software engineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danielbusnz-lgtm&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielbusnz-
+  lgtm&theme=github_dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielbusnz-lgtm&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielbusnz-lgtm&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielbusnz-lgtm&theme=dark)
 
