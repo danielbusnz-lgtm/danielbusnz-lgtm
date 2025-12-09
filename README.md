@@ -16,7 +16,7 @@
 - **Rust:** pcap, pnet, clap
 - **Web Development:** Flask, REST APIs, Webhooks, OAuth Authentication
 - **Databases:** SQLite
-- **Tools:** Git, Linux, GPU Computing, Networking, Docker, Virtual Environments
+- **Tools:** Git, Linux, GPU Computing, Networking, Docker
 - **APIs:** OpenAI API, Gmail API, QuickBooks API, Google APIs, yfinance
 
 ## How to reach me
