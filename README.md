@@ -12,9 +12,13 @@
 
 ## Skills
 - **Languages:** Python, C++, Rust, JavaScript
-- **AI/ML:** PyTorch, Reinforcement Learning, Deep Q-Networks
-- **Tools:** Git, Linux, GPU Computing, Networking
-- **APIs:** OpenAI, Gmail API, QuickBooks API
+- **AI/ML:** PyTorch, TensorFlow, Reinforcement Learning, Deep Q-Networks (DQN), CNNs, Computer Vision, Time Series Analysis
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Flask, Pygame, BeautifulSoup4, PDFPlumber, Pillow
+- **Rust:** pcap, pnet, clap
+- **Web Development:** Flask, REST APIs, Webhooks, OAuth Authentication
+- **Databases:** SQLite
+- **Tools:** Git, Linux, GPU Computing, Networking, Docker, Virtual Environments
+- **APIs:** OpenAI API, Gmail API, QuickBooks API, Google APIs, yfinance
 
 ## How to reach me
 danielbusnz@gmail.com
