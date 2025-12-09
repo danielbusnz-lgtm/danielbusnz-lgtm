@@ -6,10 +6,10 @@
 
 ## Projects
 
+- **[Traffic Analyzer](https://github.com/danielbusnz-lgtm/Traffic-Analyzer)** - Real-time network packet capture and analysis tool built with Rust
 - **[AI Car Racing](https://github.com/danielbusnz-lgtm/car-ai)** - Reinforcement learning agent that learns to drive using Deep Q-Learning (DQN)
 - **[AI Vision Trading](https://github.com/danielbusnz-lgtm/timeseries-vision-trading)** - Time series trading analysis using computer vision and deep learning
 - **[AI Invoice Processor](https://github.com/danielbusnz-lgtm/Ai-Invoice)** - Automated invoice processing from Gmail to QuickBooks using OpenAI
-- **[Traffic Analyzer](https://github.com/danielbusnz-lgtm/Traffic-Analyzer)** - Real-time network packet capture and analysis tool built with Rust
 
 ## Skills
 - **Languages:** Python, C++, Rust, JavaScript
