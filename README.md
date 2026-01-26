@@ -7,7 +7,7 @@
 ## Projects
 
 - **[Management Dashboard](https://github.com/danielbusnz-lgtm/Ai-Invoice)** - Automated invoice processing from Gmail to QuickBooks using OpenAI
-- - **[Traffic Analyzer](https://github.com/danielbusnz-lgtm/Traffic-Analyzer)** - Real-time network packet capture and analysis tool built with Rust
+- **[Traffic Analyzer](https://github.com/danielbusnz-lgtm/Traffic-Analyzer)** - Real-time network packet capture and analysis tool built with Rust
 - **[Machine Learning Car Racing](https://github.com/danielbusnz-lgtm/car-ai)** - Reinforcement learning agent that learns to drive using Deep Q-Learning (DQN)
 - **[Time Series Vision Trading](https://github.com/danielbusnz-lgtm/timeseries-vision-trading)** - Time series trading analysis using computer vision and deep learning
 
