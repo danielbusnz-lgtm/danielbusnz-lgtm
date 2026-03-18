@@ -22,14 +22,14 @@
 
 ## Skills
 - **Languages:** Python, C++, Rust, JavaScript
-- **AI/ML:** PyTorch, TensorFlow, Reinforcement Learning, Deep Q-Networks (DQN), CNNs, Computer Vision, Time Series Analysis, RAG, LLMs
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Flask, FastAPI, LangChain, ChromaDB, Pygame, BeautifulSoup4, PDFPlumber, Pillow
-- **Rust:** Tokio, Serde, pcap, pnet, clap
+- **AI/ML:** PyTorch, TensorFlow, Reinforcement Learning, Deep Q-Networks (DQN), CNNs, Computer Vision, Time Series Analysis, RAG, LLMs, GPT-4 Vision
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Flask, FastAPI, LangChain, ChromaDB, Pygame, BeautifulSoup4, PDFPlumber, Pillow, Tweepy, Paramiko, Requests
+- **Rust:** Tokio, Serde, pcap, pnet, clap, ratatui, crossterm
 - **Systems:** TCP networking, async I/O, concurrency, in-memory data structures, disk persistence
-- **Web Development:** Flask, FastAPI, React, REST APIs, Webhooks, OAuth Authentication, Server-Sent Events
+- **Web Development:** Flask, FastAPI, uvicorn, React, REST APIs, Webhooks, OAuth Authentication, Server-Sent Events
 - **Databases:** SQLite, ChromaDB (vector store)
-- **Tools:** Git, Linux, GPU Computing, Networking, Docker
-- **APIs:** OpenAI API, Gmail API, QuickBooks API, Google APIs, yfinance
+- **Tools:** Git, Linux, GPU Computing, Networking, Docker, systemd, cron
+- **APIs:** OpenAI API, Anthropic API, Telegram Bot API, Twitter/X API, Polymarket API, Cloudflare API, Microsoft Graph API, Notion API, Gmail API, QuickBooks API, Google APIs, yfinance
 
 ## How to reach me
 danielbusnz@gmail.com
