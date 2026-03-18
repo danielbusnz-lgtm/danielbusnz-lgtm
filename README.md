@@ -6,8 +6,9 @@
 
 ## Projects
 
+- **[dispatch](https://github.com/danielbusnz-lgtm/dispatch)** - Lightweight Python task queue backed by SQLite with priority queues, retries, and a CLI
 - **[monitor](https://github.com/danielbusnz-lgtm/monitor)** - Deployment monitor that pings services and sends Telegram alerts when they go down
-- **[twitter-bot](https://github.com/danielbusnz-lgtm/twitter-bot)** - Automated Twitter/X bot that posts Claude-generated tweets from GitHub project context
+- **[twitter-bot](https://github.com/danielbusnz-lgtm/twitter-bot)** - Automated Twitter/X bot that posts Claude-generated tweets and replies with per-user cooldowns
 - **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading bot for Polymarket with a ratatui TUI dashboard
 - **[autoclaw](https://github.com/danielbusnz-lgtm/autoclaw)** - Autonomous overnight research agent powered by Claude Code that wakes you up to a briefing
 - **[rag-qa-app](https://github.com/danielbusnz-lgtm/rag-qa-app)** - RAG-based Q&A app for document question answering, deployed at rag-qa-api.com
@@ -29,7 +30,7 @@
 - **Web Development:** Flask, FastAPI, uvicorn, React, REST APIs, Webhooks, OAuth Authentication, Server-Sent Events
 - **Databases:** SQLite, ChromaDB (vector store)
 - **Tools:** Git, Linux, GPU Computing, Networking, Docker, systemd, cron
-- **APIs:** OpenAI API, Anthropic API, Telegram Bot API, Twitter/X API, Polymarket API, Cloudflare API, Microsoft Graph API, Notion API, Gmail API, QuickBooks API, Google APIs, yfinance
+- **APIs:** OpenAI API, Anthropic API, Telegram Bot API, Twitter/X API, Polymarket API, Cloudflare API, Microsoft Graph API, Notion API, Gmail API, QuickBooks API, Google APIs, DigitalOcean API, xAI API, DeepSeek API, yfinance
 
 ## How to reach me
 danielbusnz@gmail.com
