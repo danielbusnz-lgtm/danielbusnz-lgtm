@@ -22,7 +22,7 @@
 - **[System_Monitor](https://github.com/danielbusnz-lgtm/System_Monitor)** - System resource monitoring tool
 
 ## Skills
-- **Languages:** Python, C++, Rust, JavaScript
+- **Languages:** Python, Rust, JavaScript
 - **AI/ML:** PyTorch, TensorFlow, Reinforcement Learning, Deep Q-Networks (DQN), CNNs, Computer Vision, Time Series Analysis, RAG, LLMs, GPT-4 Vision
 - **Python Libraries:** NumPy, Pandas, Matplotlib, Flask, FastAPI, LangChain, ChromaDB, Pygame, BeautifulSoup4, PDFPlumber, Pillow, Tweepy, Paramiko, Requests
 - **Rust:** Tokio, Serde, pcap, pnet, clap, ratatui, crossterm
