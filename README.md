@@ -7,7 +7,6 @@
 ## Projects
 - **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading 
 - **[rag-qa-app](https://github.com/danielbusnz-lgtm/rag-qa-app)** - RAG-based Q&A app for document question answering, deployed at rag-qa-api.com
-- **[invoice-flow](https://github.com/danielbusnz-lgtm/invoice-flow)** - Automated invoice processing and management pipeline
 - **[kvstore](https://github.com/danielbusnz-lgtm/kvstore)** - Lightweight key-value store built in Rust with TCP server and JSON persistence
 
 ## Skills
