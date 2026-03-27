@@ -5,7 +5,8 @@
 </div>
 
 ## Projects
-- **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading 
+- **[InkVault](https://github.com/danielbusnz-lgtm/inkvault)** - AI document processing pipeline on AWS. Classifies, extracts, and stores structured data from PDFs using Bedrock (Claude), Lambda, S3, DynamoDB, and PostgreSQL. IaC with AWS CDK.
+- **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading
 - **[rag-qa-app](https://github.com/danielbusnz-lgtm/rag-qa-app)** - RAG-based Q&A app for document question answering, deployed at rag-qa-api.com
 - **[kvstore](https://github.com/danielbusnz-lgtm/kvstore)** - Lightweight key-value store built in Rust with TCP server and JSON persistence
 
