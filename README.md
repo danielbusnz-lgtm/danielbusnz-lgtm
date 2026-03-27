@@ -5,21 +5,10 @@
 </div>
 
 ## Projects
-
-- **[dispatch](https://github.com/danielbusnz-lgtm/dispatch)** - Lightweight Python task queue backed by SQLite with priority queues, retries, and a CLI
-- **[monitor](https://github.com/danielbusnz-lgtm/monitor)** - Deployment monitor that pings services and sends Telegram alerts when they go down
-- **[twitter-bot](https://github.com/danielbusnz-lgtm/twitter-bot)** - Automated Twitter/X bot that posts Claude-generated tweets and replies with per-user cooldowns
-- **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading bot for Polymarket with a ratatui TUI dashboard
-- **[autoclaw](https://github.com/danielbusnz-lgtm/autoclaw)** - Autonomous overnight research agent powered by Claude Code that wakes you up to a briefing
+- **[polymarket-bot](https://github.com/danielbusnz-lgtm/polymarket-bot)** - Automated prediction market trading 
 - **[rag-qa-app](https://github.com/danielbusnz-lgtm/rag-qa-app)** - RAG-based Q&A app for document question answering, deployed at rag-qa-api.com
 - **[invoice-flow](https://github.com/danielbusnz-lgtm/invoice-flow)** - Automated invoice processing and management pipeline
-- **[car-ai](https://github.com/danielbusnz-lgtm/car-ai)** - Deep Q-Learning (DQN) agent trained to drive a car around a track
 - **[kvstore](https://github.com/danielbusnz-lgtm/kvstore)** - Lightweight key-value store built in Rust with TCP server and JSON persistence
-- **[github-tui](https://github.com/danielbusnz-lgtm/github-tui)** - Terminal UI for browsing GitHub repos and activity
-- **[kiwis](https://github.com/danielbusnz-lgtm/kiwis)** - ML image classifier distinguishing kiwi from orange fruit using Random Forest and scikit-learn
-- **[Traffic-Analyzer](https://github.com/danielbusnz-lgtm/Traffic-Analyzer)** - Real-time network packet capture and analysis tool built with Rust
-- **[neofetch-clone](https://github.com/danielbusnz-lgtm/neofetch-clone)** - Neofetch clone that displays system info in the terminal
-- **[System_Monitor](https://github.com/danielbusnz-lgtm/System_Monitor)** - System resource monitoring tool
 
 ## Skills
 - **Languages:** Python, Rust, TypeScript, SQL
