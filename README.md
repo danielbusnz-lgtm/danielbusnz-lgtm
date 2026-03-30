@@ -13,11 +13,17 @@
 ## Tech Stack
 
 **Languages** — Python, Rust, TypeScript, SQL
+
 **AI / LLMs** — Multi-model orchestration (Claude, GPT-4o, Gemini, Grok, DeepSeek), structured output parsing, RAG pipelines, LangChain, ChromaDB, Tavily, PyTorch
+
 **Backend** — FastAPI, async Python, Tokio + tonic (Rust gRPC), REST API design
+
 **Cloud & Infra** — AWS (Lambda, S3, DynamoDB, Bedrock, CDK), Railway, Docker, Linux
+
 **Web** — Next.js, React, Tailwind, TanStack Query, TradingView Lightweight Charts
+
 **Web3** — EIP-712 signing (alloy-rs), HMAC L2 auth, Polymarket CLOB, py-clob-client
+
 **Data** — PostgreSQL, DynamoDB, SQLite, ChromaDB (vector store)
 
 ## How to reach me
