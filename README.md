@@ -14,17 +14,19 @@
 
 **Languages** — Python, Rust, TypeScript, SQL
 
-**AI / LLMs** — Multi-model orchestration (Claude, GPT-4o, Gemini, Grok, DeepSeek), structured output parsing, RAG pipelines, LangChain, ChromaDB, Tavily, PyTorch
+**AI / LLMs** — Multi-model orchestration (5 providers), structured output parsing, RAG pipelines, LangChain, ChromaDB, Tavily search, Claude tool use, autonomous agents
 
-**Backend** — FastAPI, async Python, Tokio + tonic (Rust gRPC), REST API design
+**Backend** — FastAPI, async Python (asyncpg, aiosqlite), SQLAlchemy, Alembic, Tokio + tonic (Rust gRPC)
 
-**Cloud & Infra** — AWS (Lambda, S3, DynamoDB, Bedrock, CDK), Railway, Docker, Linux
+**Frontend** — Next.js, React, Tailwind, TanStack Query, Recharts, TradingView Lightweight Charts
 
-**Web** — Next.js, React, Tailwind, TanStack Query, TradingView Lightweight Charts
+**Cloud** — AWS (Lambda, S3, DynamoDB, Bedrock, API Gateway, CDK), Railway, Docker
 
-**Web3** — EIP-712 signing (alloy-rs), HMAC L2 auth, Polymarket CLOB, py-clob-client
+**Web3** — EIP-712 order signing (alloy-rs), HMAC L2 auth, Polymarket CLOB
 
 **Data** — PostgreSQL, DynamoDB, SQLite, ChromaDB (vector store)
+
+**Integrations** — Polymarket, Twitter/X, Telegram, Twilio, Notion, Microsoft Graph
 
 ## How to reach me
 danielbusnz@gmail.com
