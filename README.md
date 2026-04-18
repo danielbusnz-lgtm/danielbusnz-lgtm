@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-**Languages** — Python, Rust, TypeScript, SQL
+**Languages** — Python, Rust, TypeScript
 
 **AI / LLMs** — Multi-model orchestration (5 providers), structured output parsing, RAG pipelines, LangChain, ChromaDB, Tavily search, Claude tool use, autonomous agents
 
