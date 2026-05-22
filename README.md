@@ -1,4 +1,4 @@
-## Dan Brooks
+## Daniel Brooks
 
 Software engineer based in Boston. Kenyon College, MS from University of Chicago.
 
