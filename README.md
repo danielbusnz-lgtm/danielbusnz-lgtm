@@ -1,6 +1,6 @@
 ## Daniel Brooks
 
-Based in Boston. Kenyon College, MS from University of Chicago.
+Based in Boston. BA from Kenyon College, MS from University of Chicago.
 
 Mostly write Rust, Python, Go and TypeScript. Currently working on [Aegis](https://github.com/danielbusnz-lgtm/Aegis).
 
