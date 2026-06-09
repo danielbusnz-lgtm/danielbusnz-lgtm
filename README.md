@@ -1,10 +1,9 @@
 ## Daniel Brooks
 
 Based in Boston. BA from Kenyon College, MS from University of Chicago.
-Mostly write Rust, Go, TypeScript, and Python. Currently building
-[Peeky](https://github.com/danielbusnz-lgtm/Peeky).
+Currently building[Peeky](https://github.com/danielbusnz-lgtm/Peeky).
 
 Daily notes on what I'm building, researching, and reading:
 [danielbusnz.com](https://danielbusnz.com)
 
-- Email: danielbusnz@gmail.com
+Email: danielbusnz@gmail.com
