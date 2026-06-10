@@ -2,9 +2,7 @@
 
 Based in Boston. BA from Kenyon College, MS from University of Chicago.
 
-Interested in ML/AI and Systems Engineering.
-
-Currently building [Peeky](https://github.com/danielbusnz-lgtm/Peeky).
+I build the systems layer of AI products: real-time voice agents in Rust ([Peeky](https://github.com/danielbusnz-lgtm/Peeky)), on-device intent classifiers ([routelet](https://github.com/danielbusnz-lgtm/routelet)), and leakage-proof LLM evals ([hindsight](https://github.com/danielbusnz-lgtm/hindsight)).
 
 Daily notes on what I'm building, researching, and reading:
 [danielbusnz.com](https://danielbusnz.com)
