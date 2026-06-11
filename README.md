@@ -3,4 +3,3 @@ I build the systems layer of AI products: real-time voice agents in Rust ([Peeky
 Daily notes on what I'm building, researching, and reading:
 [danielbusnz.com](https://danielbusnz.com)
 
-Email: danielbusnz@gmail.com
